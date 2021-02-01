@@ -25,10 +25,10 @@ Creating a basic markdown file, git.md, and checking its status using **git stat
 Adding the file, git.md, to the staging area, and then commiting the changes.
 <img src="./git_clone/git_clone_5.jpg" width="500" height="300">
 
-Pushing the changes from origin to main
+Pushing the changes from origin to main.
 <img src="./git_clone/git_clone_6.jpg" width="500" height="300">
 
-Checking to see that the file was pushed successfully. In this case, it was a success
+Checking to see that the file was pushed successfully. In this case, it was a success.
 <img src="./git_clone/git_clone_7.jpg" width="500" height="300">
 
 Sources:
