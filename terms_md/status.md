@@ -7,10 +7,10 @@
 
 ## Examples
 
-<img src="./git_status/git_status_1.jpg" width="300" height="300">
-<img src="./git_status/git_status_1.jpg" width="300" height="300">
-<img src="./git_status/git_status_1.jpg" width="300" height="300">
-<img src="./git_status/git_status_1.jpg" width="300" height="300">
+<img src="./examples/git_status/git_status_1.jpg" width="300" height="300">
+<img src="./examples/git_status/git_status_1.jpg" width="300" height="300">
+<img src="./examples/git_status/git_status_1.jpg" width="300" height="300">
+<img src="./examples/git_status/git_status_1.jpg" width="300" height="300">
 
 Sources:
 * [Inspecting a Repository](https://www.atlassian.com/git/tutorials/inspecting-a-repository)

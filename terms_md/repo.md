@@ -14,10 +14,10 @@
 ## Examples
 
 Before initializing a new, empty repository in the directory "Unitialized Directory - Git Test". There is not ".git" file, so it has not become a Git repository yet.
-<img src="./git_init/Pre_initialization_git_init.jpg" width="300" height="300">
+<img src="./examples/git_init/Pre_initialization_git_init.jpg" width="300" height="300">
 
 Initializing a new, empty repository in the directory "Unitialized Directory - Git Test". The ".git" file indicates that **git init** did its job.
-<img src="./git_init/Initialization_git_init.jpg" width="300" height="300">
+<img src="./examples/git_init/Initialization_git_init.jpg" width="300" height="300">
 
 
 

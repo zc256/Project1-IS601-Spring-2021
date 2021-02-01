@@ -11,7 +11,7 @@
 
 ## Examples
 
-<img src="./git_push/git_push_4.jpg" width="300" height="300">
+<img src="./examples/git_push/git_push_4.jpg" width="300" height="300">
 
 Sources:
 * [Git Commit](https://www.atlassian.com/git/tutorials/saving-changes/git-commit)

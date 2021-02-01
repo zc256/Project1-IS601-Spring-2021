@@ -7,7 +7,7 @@
 
 ## Examples
 
-<img src="./git_checkout/git_checkout_1.jpg" width="300" height="300">
+<img src="./examples/git_checkout/git_checkout_1.jpg" width="300" height="300">
 
 Sources:
 * [Git Checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
