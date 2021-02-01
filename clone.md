@@ -7,7 +7,7 @@
 	* Must pass a repository URL, and supports a few different URL formats (HTTPS, SSH, GitHub CLI) [1]
 	* Creates a remote connection called “origin” which points back to the original repository [2]
 
-<img src="./git_clone/git_clone_1.jpg" width="450" height="450">
+<img src="./git_clone/git_clone.jpg" width="450" height="450">
 
 Sources:
 
