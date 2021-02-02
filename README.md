@@ -2,3 +2,4 @@
 
 * [Git, Docker, automated testing, and continuous integration - Improving productivity and competitiveness](/git.md)
 * [Git commands and terminology - Definitions and Examples](/terms.md)
+* [gitFlow Workflow](/flow.md)
