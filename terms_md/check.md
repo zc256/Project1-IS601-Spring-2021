@@ -7,7 +7,15 @@
 
 ## Examples
 
-<img src="./examples/git_checkout/git_checkout_1.jpg" width="300" height="300">
+This will make the specified branch the new HEAD branch.
+```
+git checkout <branch>
+```
+
+This will create a new branch, <branch>, and then makes it the new HEAD branch.
+```
+git checkout -b <branch>
+```
 
 Sources:
 * [Git Checkout](https://www.atlassian.com/git/tutorials/using-branches/git-checkout)
